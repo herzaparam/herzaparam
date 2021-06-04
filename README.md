@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Herzaparam's GitHub stats](https://github-readme-stats.vercel.app/api?username=herzaparam&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzaparam&layout=compact)](https://github.com/herzaparam/herzaparam.git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzaparam&layout=compact&card_width=200)](https://github.com/herzaparam/herzaparam.git)
 
 
 <!--
