@@ -11,8 +11,8 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif" />
 
 ✔ I used to Developing **Emis**<br>
-✔ I’m currently learning **React Native**<br>
-✔ I’m looking for help with **Mobile Apps** development<br>
+✔ I had 6 months experience in PT.Juke Solusi Teknologi as a front end developer<br>
+✔ I’m currently learning on **webpack configuration** and developing mobile apps<br>
 ✔ Feel free to Ask!😉<br>
 
 <h3 align="left">Languages and Tools:</h3>
